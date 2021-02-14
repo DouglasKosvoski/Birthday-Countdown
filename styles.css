@@ -1,0 +1,36 @@
+body {
+  background-color: #541743;
+  color: black;
+  font-family: sans-serif;
+  min-height: 100vh;
+  overflow: hidden;
+  font-weight: lighter;
+}
+
+.title {
+  font-weight: lighter;
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 10rem;
+}
+
+.dateContainer {
+  color: #F75431;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.daysleft {
+  color: #F7BD00;
+  text-align: center;
+  font-size: 5rem;
+}
+
+.author {
+  font-size: 1rem;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  padding: 2rem;
+  transform: translate(-50%, -100%);
+}
